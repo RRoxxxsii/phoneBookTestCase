@@ -23,7 +23,7 @@ class UpdateDataFromPhoneBook(BaseUseCase):
 
 class FindDataFromPhoneBook(BaseUseCase):
 
-    def __call__(self, dto: ContactsDTO) -> list:
+    def __call__(self, dto: ContactsDTO) -> list[list[str]] | list[dict[str]]:
         return self.repo.find(dto)
 
 
@@ -38,5 +38,5 @@ class PhoneBookInteractor(BaseInteractor):
     def update_data(self, dto: ContactsDTO, working_mobile: str) -> None:
         return UpdateDataFromPhoneBook(self.repo)(dto, working_mobile)
 
-    def find_data(self, dto: ContactsDTO) -> list:
+    def find_data(self, dto: ContactsDTO) -> list[list[str]] | list[dict[str]]:
         return FindDataFromPhoneBook(self.repo)(dto)
