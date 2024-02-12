@@ -1,0 +1,564 @@
+{
+    "contacts": [
+        {
+            "name": "Оксана",
+            "surname": "Пономарева",
+            "patronymic": "Матвеевна",
+            "company": "ГК Эталон",
+            "working_mobile": "486258219703",
+            "personal_mobile": "777145545045"
+        },
+        {
+            "name": "Степан",
+            "surname": "Евдокимова",
+            "patronymic": "Всеволодович",
+            "company": "Остин",
+            "working_mobile": "361626589009",
+            "personal_mobile": "560534481191"
+        },
+        {
+            "name": "Василиса",
+            "surname": "Васильев",
+            "patronymic": "Владимировна",
+            "company": "Эбботт лэбораториз (Abbott Laboratories)",
+            "working_mobile": "132512418796",
+            "personal_mobile": "773917602304"
+        },
+        {
+            "name": "Харитон",
+            "surname": "Аксенов",
+            "patronymic": "Викторовна",
+            "company": "Пермэнергосбыт",
+            "working_mobile": "768576031787",
+            "personal_mobile": "698508552086"
+        },
+        {
+            "name": "Пров",
+            "surname": "Иванова",
+            "patronymic": "Аверьянович",
+            "company": "Эбботт лэбораториз (Abbott Laboratories)",
+            "working_mobile": "504423268562",
+            "personal_mobile": "377641967270"
+        },
+        {
+            "name": "Мартын",
+            "surname": "Бирюкова",
+            "patronymic": "Ануфриевич",
+            "company": "САП СНГ (SAP)",
+            "working_mobile": "676227466511",
+            "personal_mobile": "204838904567"
+        },
+        {
+            "name": "Ростислав",
+            "surname": "Дорофеева",
+            "patronymic": "Демидович",
+            "company": "Солид-товарные рынки",
+            "working_mobile": "257677634437",
+            "personal_mobile": "826758780854"
+        },
+        {
+            "name": "Орест",
+            "surname": "Логинов",
+            "patronymic": "Изотович",
+            "company": "Дон-Строй Инвест",
+            "working_mobile": "318769782074",
+            "personal_mobile": "947341093826"
+        },
+        {
+            "name": "Еремей",
+            "surname": "Беляков",
+            "patronymic": "Аверьянович",
+            "company": "Уральские авиалинии",
+            "working_mobile": "612093899627",
+            "personal_mobile": "438062620129"
+        },
+        {
+            "name": "Ульян",
+            "surname": "Потапов",
+            "patronymic": "Гаврилович",
+            "company": "Минудобрения",
+            "working_mobile": "300982568153",
+            "personal_mobile": "412033316546"
+        },
+        {
+            "name": "Антонина",
+            "surname": "Елисеева",
+            "patronymic": "Егоровна",
+            "company": "Вита Лайн",
+            "working_mobile": "371595096035",
+            "personal_mobile": "420896275492"
+        },
+        {
+            "name": "Мариан",
+            "surname": "Щербакова",
+            "patronymic": "Архипович",
+            "company": "Мобильные телесистемы",
+            "working_mobile": "158208104500",
+            "personal_mobile": "157134512121"
+        },
+        {
+            "name": "Юлиан",
+            "surname": "Аксенова",
+            "patronymic": "Чеславович",
+            "company": "Группа компаний МИЦ",
+            "working_mobile": "063266073499",
+            "personal_mobile": "082925681948"
+        },
+        {
+            "name": "Вячеслав",
+            "surname": "Авдеев",
+            "patronymic": "Владиславович",
+            "company": "Леруа Мерлен Восток (Leroi Merlin)",
+            "working_mobile": "416263982466",
+            "personal_mobile": "856610260918"
+        },
+        {
+            "name": "Фома",
+            "surname": "Осипова",
+            "patronymic": "Борисовна",
+            "company": "Приосколье",
+            "working_mobile": "163353589522",
+            "personal_mobile": "589764917464"
+        },
+        {
+            "name": "Прокл",
+            "surname": "Егоров",
+            "patronymic": "Харитонович",
+            "company": "Юг-Нефтепродукт",
+            "working_mobile": "286653714639",
+            "personal_mobile": "108066465600"
+        },
+        {
+            "name": "Петр",
+            "surname": "Романова",
+            "patronymic": "Алексеевна",
+            "company": "ГК Мега-Авто",
+            "working_mobile": "043186590150",
+            "personal_mobile": "883277557600"
+        },
+        {
+            "name": "Мартьян",
+            "surname": "Трофимов",
+            "patronymic": "Давидович",
+            "company": "Вита Лайн",
+            "working_mobile": "380525560814",
+            "personal_mobile": "879260275985"
+        },
+        {
+            "name": "Ратмир",
+            "surname": "Маркова",
+            "patronymic": "Богдановна",
+            "company": "Сетевая компания",
+            "working_mobile": "098489721466",
+            "personal_mobile": "088426749389"
+        },
+        {
+            "name": "Аполлинарий",
+            "surname": "Степанов",
+            "patronymic": "Денисович",
+            "company": "ТМК Чермет",
+            "working_mobile": "263193572364",
+            "personal_mobile": "480488142795"
+        },
+        {
+            "name": "Архип",
+            "surname": "Устинов",
+            "patronymic": "Матвеевич",
+            "company": "Сетевая компания",
+            "working_mobile": "636495533694",
+            "personal_mobile": "839380517536"
+        },
+        {
+            "name": "Руслан",
+            "surname": "Панфилова",
+            "patronymic": "Всеволодович",
+            "company": "Интернешнл Пейпер (International Paper)",
+            "working_mobile": "929202942936",
+            "personal_mobile": "083017375711"
+        },
+        {
+            "name": "Ульяна",
+            "surname": "Гришин",
+            "patronymic": "Исидорович",
+            "company": "Сибирская сервисная компания",
+            "working_mobile": "160842666804",
+            "personal_mobile": "418343606649"
+        },
+        {
+            "name": "Аким",
+            "surname": "Кудрявцев",
+            "patronymic": "Андреевич",
+            "company": "Независимая энергосбытовая компания Краснодарского края",
+            "working_mobile": "745794223536",
+            "personal_mobile": "489542028537"
+        },
+        {
+            "name": "Анжела",
+            "surname": "Шилова",
+            "patronymic": "Абрамович",
+            "company": "Интернешнл Пейпер (International Paper)",
+            "working_mobile": "232682750614",
+            "personal_mobile": "182008656297"
+        },
+        {
+            "name": "Лариса",
+            "surname": "Горбачева",
+            "patronymic": "Харлампьевич",
+            "company": "Арконик СМЗ",
+            "working_mobile": "006623826030",
+            "personal_mobile": "402865654341"
+        },
+        {
+            "name": "Семен",
+            "surname": "Дорофеев",
+            "patronymic": "Антонович",
+            "company": "Сегежа",
+            "working_mobile": "387796867565",
+            "personal_mobile": "445299333100"
+        },
+        {
+            "name": "Гремислав",
+            "surname": "Зуева",
+            "patronymic": "Яковлевна",
+            "company": "АХ Степь",
+            "working_mobile": "152973484272",
+            "personal_mobile": "420014822224"
+        },
+        {
+            "name": "Агафон",
+            "surname": "Семенов",
+            "patronymic": "Тимурович",
+            "company": "Стройтранснефтегаз",
+            "working_mobile": "904764747245",
+            "personal_mobile": "325125168419"
+        },
+        {
+            "name": "Трофим",
+            "surname": "Степанова",
+            "patronymic": "Виленович",
+            "company": "Группа УГМК",
+            "working_mobile": "768957264283",
+            "personal_mobile": "703177097607"
+        },
+        {
+            "name": "Александра",
+            "surname": "Носков",
+            "patronymic": "Жоресович",
+            "company": "БМВ Русланд Трейдинг (BMW)",
+            "working_mobile": "702090267530",
+            "personal_mobile": "636424310372"
+        },
+        {
+            "name": "Демид",
+            "surname": "Елисеева",
+            "patronymic": "Леоновна",
+            "company": "Сибирская сервисная компания",
+            "working_mobile": "102039136900",
+            "personal_mobile": "046722458958"
+        },
+        {
+            "name": "Евпраксия",
+            "surname": "Сазонов",
+            "patronymic": "Гертрудович",
+            "company": "ГК Эталон",
+            "working_mobile": "788936961820",
+            "personal_mobile": "390681940794"
+        },
+        {
+            "name": "Варлаам",
+            "surname": "Исаков",
+            "patronymic": "Наумовна",
+            "company": "Технологии машиностроения (Техмаш)",
+            "working_mobile": "057209847474",
+            "personal_mobile": "048472023074"
+        },
+        {
+            "name": "Куприян",
+            "surname": "Жданова",
+            "patronymic": "Григорьевна",
+            "company": "ТД Агроторг",
+            "working_mobile": "618124857382",
+            "personal_mobile": "062878951301"
+        },
+        {
+            "name": "Глеб",
+            "surname": "Петухова",
+            "patronymic": "Филиппович",
+            "company": "Тева (Teva)",
+            "working_mobile": "427590308179",
+            "personal_mobile": "332204078995"
+        },
+        {
+            "name": "Глеб",
+            "surname": "Котова",
+            "patronymic": "Кузьминична",
+            "company": "ЦЭНКИ",
+            "working_mobile": "974897104681",
+            "personal_mobile": "921399104391"
+        },
+        {
+            "name": "Карл",
+            "surname": "Орлов",
+            "patronymic": "Алексеевна",
+            "company": "А.П.Р.",
+            "working_mobile": "097995412646",
+            "personal_mobile": "267252870129"
+        },
+        {
+            "name": "Александра",
+            "surname": "Субботин",
+            "patronymic": "Ефимович",
+            "company": "Российская телевизионная и радиовещательная сеть",
+            "working_mobile": "360466403367",
+            "personal_mobile": "427061852065"
+        },
+        {
+            "name": "Климент",
+            "surname": "Щукин",
+            "patronymic": "Харитонович",
+            "company": "Сталепромышленная компания",
+            "working_mobile": "900764699189",
+            "personal_mobile": "660940278178"
+        },
+        {
+            "name": "Майя",
+            "surname": "Маслова",
+            "patronymic": "Артёмович",
+            "company": "Конар",
+            "working_mobile": "569372726574",
+            "personal_mobile": "444759344062"
+        },
+        {
+            "name": "Авдей",
+            "surname": "Королева",
+            "patronymic": "Захарьевич",
+            "company": "Сбербанк России",
+            "working_mobile": "385224496862",
+            "personal_mobile": "596261443239"
+        },
+        {
+            "name": "Карл",
+            "surname": "Сергеева",
+            "patronymic": "Филипповна",
+            "company": "Верисел-трейдинг",
+            "working_mobile": "962364216818",
+            "personal_mobile": "012446428031"
+        },
+        {
+            "name": "Николай",
+            "surname": "Рыбаков",
+            "patronymic": "Ефремович",
+            "company": "Компания Луис Дрейфус Восток (Louis Dreyfus)",
+            "working_mobile": "195469523807",
+            "personal_mobile": "176146875892"
+        },
+        {
+            "name": "Наум",
+            "surname": "Егорова",
+            "patronymic": "Олеговна",
+            "company": "ПСМА Рус",
+            "working_mobile": "105039037647",
+            "personal_mobile": "822154507796"
+        },
+        {
+            "name": "Аристарх",
+            "surname": "Тимофеева",
+            "patronymic": "Антоновна",
+            "company": "Фармимэкс",
+            "working_mobile": "172165402262",
+            "personal_mobile": "945442736821"
+        },
+        {
+            "name": "Серафим",
+            "surname": "Павлов",
+            "patronymic": "Вениаминовна",
+            "company": "ВымпелКом",
+            "working_mobile": "230269297632",
+            "personal_mobile": "699974506042"
+        },
+        {
+            "name": "Зинаида",
+            "surname": "Голубев",
+            "patronymic": "Еремеевич",
+            "company": "Арконик СМЗ",
+            "working_mobile": "671243687511",
+            "personal_mobile": "333652133953"
+        },
+        {
+            "name": "Демид",
+            "surname": "Антонова",
+            "patronymic": "Харламович",
+            "company": "Новороссийский морской торговый порт",
+            "working_mobile": "873834910808",
+            "personal_mobile": "134757477414"
+        },
+        {
+            "name": "Зинаида",
+            "surname": "Коновалова",
+            "patronymic": "Афанасьевич",
+            "company": "Первый канал",
+            "working_mobile": "681088087143",
+            "personal_mobile": "332034397269"
+        },
+        {
+            "name": "Феоктист",
+            "surname": "Артемьев",
+            "patronymic": "Игнатович",
+            "company": "Группа РТК",
+            "working_mobile": "011870775247",
+            "personal_mobile": "164356524105"
+        },
+        {
+            "name": "Евпраксия",
+            "surname": "Хохлов",
+            "patronymic": "Августович",
+            "company": "Зарубежнефть",
+            "working_mobile": "463166076782",
+            "personal_mobile": "228332082047"
+        },
+        {
+            "name": "Натан",
+            "surname": "Кошелев",
+            "patronymic": "Львовна",
+            "company": "Банк Санкт-Петербург",
+            "working_mobile": "964012328937",
+            "personal_mobile": "633106315847"
+        },
+        {
+            "name": "Регина",
+            "surname": "Носов",
+            "patronymic": "Федосьевич",
+            "company": "АСЦ-Холдинг",
+            "working_mobile": "905713398398",
+            "personal_mobile": "790951805782"
+        },
+        {
+            "name": "Виктория",
+            "surname": "Шилова",
+            "patronymic": "Богдановна",
+            "company": "Банк Уралсиб",
+            "working_mobile": "940785626391",
+            "personal_mobile": "608159890660"
+        },
+        {
+            "name": "Венедикт",
+            "surname": "Копылова",
+            "patronymic": "Юлианович",
+            "company": "Элко Рус (Elko)",
+            "working_mobile": "737296570007",
+            "personal_mobile": "895021550736"
+        },
+        {
+            "name": "Яков",
+            "surname": "Максимов",
+            "patronymic": "Эдгардович",
+            "company": "Вектрум-К",
+            "working_mobile": "910274998088",
+            "personal_mobile": "459142143640"
+        },
+        {
+            "name": "Боян",
+            "surname": "Васильев",
+            "patronymic": "Теймуразович",
+            "company": "Порше Руссланд (Porsche)",
+            "working_mobile": "363481818455",
+            "personal_mobile": "978741767513"
+        },
+        {
+            "name": "Мина",
+            "surname": "Князева",
+            "patronymic": "Фадеевич",
+            "company": "Гугл (Google)",
+            "working_mobile": "489397697638",
+            "personal_mobile": "112648357784"
+        },
+        {
+            "name": "Станислав",
+            "surname": "Архипова",
+            "patronymic": "Брониславович",
+            "company": "Свеза",
+            "working_mobile": "361709103553",
+            "personal_mobile": "158688752861"
+        },
+        {
+            "name": "Моисей",
+            "surname": "Захаров",
+            "patronymic": "Германович",
+            "company": "Ланит",
+            "working_mobile": "606797488831",
+            "personal_mobile": "614533833507"
+        },
+        {
+            "name": "Гордей",
+            "surname": "Лобанова",
+            "patronymic": "Всеволодович",
+            "company": "Рив Гош",
+            "working_mobile": "575675634886",
+            "personal_mobile": "267978096115"
+        },
+        {
+            "name": "Моисей",
+            "surname": "Воробьева",
+            "patronymic": "Валентиновна",
+            "company": "ЮниКредит Банк (UniCredit)",
+            "working_mobile": "001335971030",
+            "personal_mobile": "584396809322"
+        },
+        {
+            "name": "Азарий",
+            "surname": "Никонова",
+            "patronymic": "Эдуардович",
+            "company": "СОГАЗ",
+            "working_mobile": "154042697019",
+            "personal_mobile": "248514836957"
+        },
+        {
+            "name": "Анжелика",
+            "surname": "Давыдов",
+            "patronymic": "Данилович",
+            "company": "Нижфарм (Nidda Midco)",
+            "working_mobile": "592983836882",
+            "personal_mobile": "287886609592"
+        },
+        {
+            "name": "Сократ",
+            "surname": "Романов",
+            "patronymic": "Вениаминовна",
+            "company": "Объединенная компания Связной — Евросеть",
+            "working_mobile": "017341540275",
+            "personal_mobile": "703928747280"
+        },
+        {
+            "name": "Мстислав",
+            "surname": "Титов",
+            "patronymic": "Сергеевна",
+            "company": "Яндекс",
+            "working_mobile": "930441802875",
+            "personal_mobile": "365547265937"
+        },
+        {
+            "name": "Влас",
+            "surname": "Киселева",
+            "patronymic": "Захаровна",
+            "company": "Московская инженерно-строительная компания",
+            "working_mobile": "097262874720",
+            "personal_mobile": "509311012854"
+        },
+        {
+            "name": "Агафья",
+            "surname": "Власов",
+            "patronymic": "Эдгардович",
+            "company": "Первый завод",
+            "working_mobile": "301734853153",
+            "personal_mobile": "646847659300"
+        },
+        {
+            "name": "Емельян",
+            "surname": "Ефремов",
+            "patronymic": "Харитонович",
+            "company": "Группа Нэфис",
+            "working_mobile": "917520668226",
+            "personal_mobile": "934100311039"
+        }
+    ]
+}
